@@ -1,2 +1,3 @@
-# Project-37
-Apple platforms
+# package-info
+
+Sample package built on top of libSwiftPM.
